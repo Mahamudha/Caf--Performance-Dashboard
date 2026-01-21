@@ -81,7 +81,7 @@ To build this dashboard, I used:
 - **Visualization Tools:** Charts, graphs, and slicers for dynamic and interactive reporting.
 
 ## Purpose
-The purpose of this project was to apply data analysis techniques to real-world sales and transaction data, transforming raw data into actionable insights for a coffee and food business. By building an interactive dashboard, I aimed to provide business stakeholders with clear, real-time insights into key performance indicators (KPIs), trends, and areas for improvement. This project helped me enhance my skills in Excel automation, data cleaning, and visualization, while deepening my understanding of how data-driven decision-making can improve business performance.
+This project helped me enhance my skills in Excel automation, data cleaning, and visualization, while deepening my understanding of how data-driven decision-making can improve business performance.
 
 
 
