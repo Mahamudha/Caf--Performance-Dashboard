@@ -40,7 +40,7 @@ How does revenue compare to profit across categories or time periods? Use compar
 ## Dashboard Preview
 Here’s a screenshot of the interactive dashboard:
 
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/Mahamudha/Caf--Performance-Dashboard/blob/main/Images/CoffeeShop_Sales_Analysis%20Part-1.png?raw=true))
+![Dashboard Screenshot](https://github.com/Mahamudha/Caf--Performance-Dashboard/blob/d16fe94a4b731754e25bfd4883c3e97b0d008d83/Images/CoffeeShop_Sales_Analysis%20Part-1.png)
 
 
 
