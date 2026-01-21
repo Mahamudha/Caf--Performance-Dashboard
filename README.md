@@ -42,7 +42,7 @@ Here’s a screenshot of the interactive dashboard:
 
 ![Dashboard Screenshot](https://github.com/Mahamudha/Caf--Performance-Dashboard/blob/d16fe94a4b731754e25bfd4883c3e97b0d008d83/Images/CoffeeShop_Sales_Analysis%20Part-1.png)
 
-
+![Dashboard Screenshot](https://github.com/Mahamudha/Caf--Performance-Dashboard/blob/f8a2ade0d86ee52a83bacbf320165b7e6a63d425/Images/CoffeeShop_Sales_Analysis%20Part-2.png)
 
 ## Dashboard Features
 This dynamic dashboard was built using Excel and includes several features for data exploration and analysis:
